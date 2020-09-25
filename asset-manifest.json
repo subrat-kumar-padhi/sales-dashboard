@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sales-dashboard/static/css/main.a3efcb2c.chunk.css",
+    "main.js": "/sales-dashboard/static/js/main.6cd3683f.chunk.js",
+    "main.js.map": "/sales-dashboard/static/js/main.6cd3683f.chunk.js.map",
+    "runtime-main.js": "/sales-dashboard/static/js/runtime-main.a22619f7.js",
+    "runtime-main.js.map": "/sales-dashboard/static/js/runtime-main.a22619f7.js.map",
+    "static/css/2.305e1ae7.chunk.css": "/sales-dashboard/static/css/2.305e1ae7.chunk.css",
+    "static/js/2.ce474232.chunk.js": "/sales-dashboard/static/js/2.ce474232.chunk.js",
+    "static/js/2.ce474232.chunk.js.map": "/sales-dashboard/static/js/2.ce474232.chunk.js.map",
+    "index.html": "/sales-dashboard/index.html",
+    "precache-manifest.ac33d6ea91a770e14f037783228121ab.js": "/sales-dashboard/precache-manifest.ac33d6ea91a770e14f037783228121ab.js",
+    "service-worker.js": "/sales-dashboard/service-worker.js",
+    "static/css/2.305e1ae7.chunk.css.map": "/sales-dashboard/static/css/2.305e1ae7.chunk.css.map",
+    "static/css/main.a3efcb2c.chunk.css.map": "/sales-dashboard/static/css/main.a3efcb2c.chunk.css.map",
+    "static/js/2.ce474232.chunk.js.LICENSE.txt": "/sales-dashboard/static/js/2.ce474232.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sales-dashboard/static/media/12.46a206c7.jpg",
+    "static/media/logo.svg": "/sales-dashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22619f7.js",
+    "static/css/2.305e1ae7.chunk.css",
+    "static/js/2.ce474232.chunk.js",
+    "static/css/main.a3efcb2c.chunk.css",
+    "static/js/main.6cd3683f.chunk.js"
+  ]
+}

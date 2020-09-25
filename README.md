@@ -75,3 +75,18 @@ yarn add @progress/kendo-react-dialogs @progress/kendo-react-inputs @progress/ke
 yarn add @progress/kendo-react-charts hammerjs
 yarn add @progress/kendo-data-query @progress/kendo-react-dateinputs @progress/kendo-react-dropdowns @progress/kendo-react-grid @progress/kendo-react-inputs @progress/kendo-react-intl @progress/kendo-react-data-tools
 yarn add @progress/kendo-react-layout
+
+
+or create a new repository on the command line
+echo "# sales-dashboard" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/subrat-kumar-padhi/sales-dashboard.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/subrat-kumar-padhi/sales-dashboard.git
+git branch -M master
+git push -u origin master
